@@ -85,6 +85,20 @@ void AMicroMMOCharacter::Tick(float DeltaSeconds)
 			FRotator CursorR = CursorFV.Rotation();
 			CursorToWorld->SetWorldLocation(TraceHitResult.Location);
 			CursorToWorld->SetWorldRotation(CursorR);
+			
 		}
+		PrintTransform();
 	}
+	PrintTransform();
+}
+
+void AMicroMMOCharacter::PrintTransform()
+{
+	//this->GetActorLocation();
+	FVector location = this->GetActorLocation();
+	FString locationStr = location.ToString();
+
+	//UE_LOG(LogTemp, Log, TEXT("Hello %s"),locationStr);
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("This is an on screen message!"));
+
 }
