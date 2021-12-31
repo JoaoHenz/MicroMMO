@@ -1,0 +1,2 @@
+C:\Users\Usuario\Documents\Repos\MicroMMO\Intermediate\Build\Win64\UE4Editor\Development\MicroMMO\Definitions.MicroMMO.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Source\MicroMMO\MicroMMO.h

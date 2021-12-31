@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\Repos\MicroMMO\Intermediate\Build\Win64\UE4Editor\Development\MicroMMO\Definitions.MicroMMO.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Source\MicroMMO/MicroMMOPlayerController.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Intermediate\Build\Win64\UE4Editor\Inc\MicroMMO\MicroMMOPlayerController.generated.h

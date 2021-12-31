@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\Repos\MicroMMO\Intermediate\Build\Win64\UE4Editor\Development\MicroMMO\Definitions.MicroMMO.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Source\MicroMMO\MicroMMOGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Intermediate\Build\Win64\UE4Editor\Inc\MicroMMO\MicroMMOGameMode.generated.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Source\MicroMMO\MicroMMOPlayerController.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Intermediate\Build\Win64\UE4Editor\Inc\MicroMMO\MicroMMOPlayerController.generated.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Source\MicroMMO\MicroMMOCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Usuario\Documents\Repos\MicroMMO\Intermediate\Build\Win64\UE4Editor\Inc\MicroMMO\MicroMMOCharacter.generated.h

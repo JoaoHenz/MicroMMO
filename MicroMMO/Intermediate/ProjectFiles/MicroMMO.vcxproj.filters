@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MicroMMO.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8AA43684-2D4E-4213-8B4E-92B23D802A90}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MicroMMO.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MicroMMOEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DB2E2D4D-3572-4D5B-BFA6-D9C3007C9B15}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MicroMMO">
+      <UniqueIdentifier>{5DFFC03D-F3F7-4A52-811F-4EFC34C3246A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MicroMMO\MicroMMO.Build.cs">
+      <Filter>Source\MicroMMO</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MicroMMO\MicroMMO.cpp">
+      <Filter>Source\MicroMMO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MicroMMO\MicroMMO.h">
+      <Filter>Source\MicroMMO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MicroMMO\MicroMMOCharacter.cpp">
+      <Filter>Source\MicroMMO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MicroMMO\MicroMMOCharacter.h">
+      <Filter>Source\MicroMMO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MicroMMO\MicroMMOGameMode.cpp">
+      <Filter>Source\MicroMMO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MicroMMO\MicroMMOGameMode.h">
+      <Filter>Source\MicroMMO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MicroMMO\MicroMMOPlayerController.cpp">
+      <Filter>Source\MicroMMO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MicroMMO\MicroMMOPlayerController.h">
+      <Filter>Source\MicroMMO</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

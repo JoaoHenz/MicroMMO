@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MicroMMO",
+			"Path": "C:\\Users\\Usuario\\Documents\\Repos\\MicroMMO\\Source\\MicroMMO.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MicroMMOEditor",
+			"Path": "C:\\Users\\Usuario\\Documents\\Repos\\MicroMMO\\Source\\MicroMMOEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
